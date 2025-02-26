@@ -1,1 +1,1 @@
-# magnomorir.github.io
+andean-simulador
